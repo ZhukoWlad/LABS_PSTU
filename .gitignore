@@ -1,0 +1,16 @@
+# Компилируемые файлы
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+otputFormat
+
+# Папки настроек компиляторов и IDE
+.vscode/
+Build/
+out/
+.vs/
+
+# .git
+.git
